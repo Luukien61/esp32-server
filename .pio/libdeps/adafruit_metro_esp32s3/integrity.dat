@@ -1,0 +1,7 @@
+mathieucarbou/ESPAsyncWebServer@^3.4.0
+links2004/WebSockets@^2.6.1
+adafruit/Adafruit Unified Sensor@^1.1.14
+khoih-prog/WebServer_ESP32_SC_W5500@^1.2.1
+mathieucarbou/AsyncTCP@^3.2.15
+adafruit/DHT sensor library@^1.4.6
+bblanchon/ArduinoJson @ ^6.19.4
